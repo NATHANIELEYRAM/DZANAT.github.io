@@ -1,4 +1,4 @@
-# DZANAT.github.io
+# NAT.github.io
 
 Welcome to my Personal Portfolio! I’m a Second-year Computer Science undergraduate at Koforidua Technical University.
 
